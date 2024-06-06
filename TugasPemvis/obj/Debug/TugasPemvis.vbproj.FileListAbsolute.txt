@@ -1,0 +1,26 @@
+C:\Users\Acer - GK\Documents\Visual Studio 2012\Projects\TugasPemvis\TugasPemvis\bin\Debug\TugasPemvis.exe.config
+C:\Users\Acer - GK\Documents\Visual Studio 2012\Projects\TugasPemvis\TugasPemvis\bin\Debug\TugasPemvis.exe
+C:\Users\Acer - GK\Documents\Visual Studio 2012\Projects\TugasPemvis\TugasPemvis\bin\Debug\TugasPemvis.pdb
+C:\Users\Acer - GK\Documents\Visual Studio 2012\Projects\TugasPemvis\TugasPemvis\bin\Debug\TugasPemvis.xml
+C:\Users\Acer - GK\Documents\Visual Studio 2012\Projects\TugasPemvis\TugasPemvis\obj\Debug\FormPengisian.Form1.resources
+C:\Users\Acer - GK\Documents\Visual Studio 2012\Projects\TugasPemvis\TugasPemvis\obj\Debug\FormPengisian.Resources.resources
+C:\Users\Acer - GK\Documents\Visual Studio 2012\Projects\TugasPemvis\TugasPemvis\obj\Debug\TugasPemvis.vbproj.GenerateResource.Cache
+C:\Users\Acer - GK\Documents\Visual Studio 2012\Projects\TugasPemvis\TugasPemvis\obj\Debug\TugasPemvis.exe
+C:\Users\Acer - GK\Documents\Visual Studio 2012\Projects\TugasPemvis\TugasPemvis\obj\Debug\TugasPemvis.xml
+C:\Users\Acer - GK\Documents\Visual Studio 2012\Projects\TugasPemvis\TugasPemvis\obj\Debug\TugasPemvis.pdb
+C:\Users\Acer - GK\Documents\Visual Studio 2012\Projects\TugasPemvis\TugasPemvis\obj\Debug\TugasPemvis.vbproj.AssemblyReference.cache
+C:\Users\Acer - GK\Documents\Visual Studio 2012\Projects\TugasPemvis\TugasPemvis\obj\Debug\TugasPemvis.vbproj.CoreCompileInputs.cache
+C:\Users\Acer - GK\Documents\Visual Studio 2012\Projects\TugasPemvis\TugasPemvis\obj\Debug\TugasPem.56C19A61.Up2Date
+C:\Users\hexor\Downloads\TugasPemvis\TugasPemvis\bin\Debug\TugasPemvis.exe.config
+C:\Users\hexor\Downloads\TugasPemvis\TugasPemvis\bin\Debug\TugasPemvis.exe
+C:\Users\hexor\Downloads\TugasPemvis\TugasPemvis\bin\Debug\TugasPemvis.pdb
+C:\Users\hexor\Downloads\TugasPemvis\TugasPemvis\bin\Debug\TugasPemvis.xml
+C:\Users\hexor\Downloads\TugasPemvis\TugasPemvis\obj\Debug\TugasPemvis.vbproj.AssemblyReference.cache
+C:\Users\hexor\Downloads\TugasPemvis\TugasPemvis\obj\Debug\FormPengisian.Form1.resources
+C:\Users\hexor\Downloads\TugasPemvis\TugasPemvis\obj\Debug\FormPengisian.Resources.resources
+C:\Users\hexor\Downloads\TugasPemvis\TugasPemvis\obj\Debug\TugasPemvis.vbproj.GenerateResource.cache
+C:\Users\hexor\Downloads\TugasPemvis\TugasPemvis\obj\Debug\TugasPemvis.vbproj.CoreCompileInputs.cache
+C:\Users\hexor\Downloads\TugasPemvis\TugasPemvis\obj\Debug\TugasPem.56C19A61.Up2Date
+C:\Users\hexor\Downloads\TugasPemvis\TugasPemvis\obj\Debug\TugasPemvis.exe
+C:\Users\hexor\Downloads\TugasPemvis\TugasPemvis\obj\Debug\TugasPemvis.xml
+C:\Users\hexor\Downloads\TugasPemvis\TugasPemvis\obj\Debug\TugasPemvis.pdb
